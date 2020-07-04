@@ -1,11 +1,13 @@
-from transformers import *
-from spacy.lang.en import English
-from typing import List
 import logging
-import torch
+from typing import List
+
 import numpy as np
+import torch
 from numpy import ndarray
 from sklearn.cluster import KMeans
+from spacy.lang.en import English
+from transformers import *
+
 logging.basicConfig(level=logging.WARNING)
 import spacy
 
