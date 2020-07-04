@@ -1,4 +1,4 @@
-### Bert Summarization with clustering the DistillBERT text representations
+### Summarization with clustering the DistillBERT text representations
 
 The parts of the code is from the repo `https://github.com/dmmiller612/bert-extractive-summarizer` modified to be used with streamlit
 
