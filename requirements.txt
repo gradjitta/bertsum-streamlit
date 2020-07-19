@@ -1,4 +1,0 @@
-streamlit
-black
-altair
-vega-datasets
