@@ -1,5 +1,5 @@
 spacy==2.2.4
 sklearn
 torch==1.5.0
-transformers==2.11.0
+transformers==4.30.0
 streamlit==0.62.0
